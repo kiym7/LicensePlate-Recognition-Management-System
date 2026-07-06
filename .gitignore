@@ -1,0 +1,9 @@
+__pycache__/
+.idea/
+.vscode/
+*.pyc
+datasets/
+*.pt
+*.pth
+*.onnx
+test_output/

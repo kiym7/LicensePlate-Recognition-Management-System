@@ -1,4 +1,0 @@
-train: D:/Bishe/datasets/images/train
-val: D:/Bishe/datasets/images/val
-nc: 1
-names: ['license_plate']
